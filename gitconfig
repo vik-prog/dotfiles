@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = vika.mjosund@gmail.com
+	name = Viktoriia Mjosund
